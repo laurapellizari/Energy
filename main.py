@@ -5,7 +5,7 @@ from PIL import Image
 
 def case():
 
-    st.markdown(f'# Título do TFG')
+    st.markdown(f'# Dimensionamento de Sistema para Geração de Energia Solar Utilizando Aprendizado de Máquina')
 
     st.markdown(
         """
