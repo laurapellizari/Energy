@@ -89,7 +89,7 @@ def case():
 """
     )
     st.latex(r'''
-    N = 48201
+    N = 57842
     ''')
 
 
@@ -107,7 +107,7 @@ def interative():
 
     if (st.button('Dimensionar')):
         pot_input = pot.title()
-        result = round ((15906284 / int(pot_input)), 0)
+        result = round ((19087541 / int(pot_input)), 0)
         st.success(str(result) + ' placas')
 
 
